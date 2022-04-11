@@ -24,4 +24,4 @@
 
 ## Sample Output
 
-![output](./filtered.PNG)
+![output](./Lab09%20LINQ/filtered.PNG)
