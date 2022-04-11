@@ -1,0 +1,18 @@
+C:\Users\laith alamat\source\repos\Lab09 LINQ\Lab09 LINQ\bin\Debug\net5.0\Lab09 LINQ.exe
+C:\Users\laith alamat\source\repos\Lab09 LINQ\Lab09 LINQ\bin\Debug\net5.0\Lab09 LINQ.deps.json
+C:\Users\laith alamat\source\repos\Lab09 LINQ\Lab09 LINQ\bin\Debug\net5.0\Lab09 LINQ.runtimeconfig.json
+C:\Users\laith alamat\source\repos\Lab09 LINQ\Lab09 LINQ\bin\Debug\net5.0\Lab09 LINQ.runtimeconfig.dev.json
+C:\Users\laith alamat\source\repos\Lab09 LINQ\Lab09 LINQ\bin\Debug\net5.0\Lab09 LINQ.dll
+C:\Users\laith alamat\source\repos\Lab09 LINQ\Lab09 LINQ\bin\Debug\net5.0\ref\Lab09 LINQ.dll
+C:\Users\laith alamat\source\repos\Lab09 LINQ\Lab09 LINQ\bin\Debug\net5.0\Lab09 LINQ.pdb
+C:\Users\laith alamat\source\repos\Lab09 LINQ\Lab09 LINQ\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\laith alamat\source\repos\Lab09 LINQ\Lab09 LINQ\obj\Debug\net5.0\Lab09 LINQ.csproj.AssemblyReference.cache
+C:\Users\laith alamat\source\repos\Lab09 LINQ\Lab09 LINQ\obj\Debug\net5.0\Lab09 LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laith alamat\source\repos\Lab09 LINQ\Lab09 LINQ\obj\Debug\net5.0\Lab09 LINQ.AssemblyInfoInputs.cache
+C:\Users\laith alamat\source\repos\Lab09 LINQ\Lab09 LINQ\obj\Debug\net5.0\Lab09 LINQ.AssemblyInfo.cs
+C:\Users\laith alamat\source\repos\Lab09 LINQ\Lab09 LINQ\obj\Debug\net5.0\Lab09 LINQ.csproj.CoreCompileInputs.cache
+C:\Users\laith alamat\source\repos\Lab09 LINQ\Lab09 LINQ\obj\Debug\net5.0\Lab09 LINQ.csproj.CopyComplete
+C:\Users\laith alamat\source\repos\Lab09 LINQ\Lab09 LINQ\obj\Debug\net5.0\Lab09 LINQ.dll
+C:\Users\laith alamat\source\repos\Lab09 LINQ\Lab09 LINQ\obj\Debug\net5.0\ref\Lab09 LINQ.dll
+C:\Users\laith alamat\source\repos\Lab09 LINQ\Lab09 LINQ\obj\Debug\net5.0\Lab09 LINQ.pdb
+C:\Users\laith alamat\source\repos\Lab09 LINQ\Lab09 LINQ\obj\Debug\net5.0\Lab09 LINQ.genruntimeconfig.cache

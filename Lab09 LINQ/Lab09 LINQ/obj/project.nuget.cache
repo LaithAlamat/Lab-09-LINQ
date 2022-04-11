@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1j4u8hnbinnUd6/7fbAPCQ8CgbshZ50bxuAVxIrULjf20gKvi5KL9iD9c2YdqLpHvnM/IubZwhYJfy4Uf9KSxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laith alamat\\source\\repos\\Lab09 LINQ\\Lab09 LINQ\\Lab09 LINQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laith alamat\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
